@@ -1,1 +1,1 @@
-Project contain exercises somehow related to probability/probability theory
+Project contains exercises somehow related to probability/probability theory
